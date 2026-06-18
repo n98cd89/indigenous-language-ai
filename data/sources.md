@@ -34,9 +34,9 @@ Faries (1938), Watkins (1865), and Howse (1844) cover Swampy, Moose, and East Cr
 ### Excluded Sources
 | Title | Reason |
 |---|---|
-| Ojibwe People's Dictionary | CC BY-NC-SA 3.0 — NC clause blocks ML training |
-| Cree Language of the Plains Textbook | CC BY-NC-ND 4.0 — NC-ND blocks ML training and dataset derivation |
-| Ojibwe Vocabulary and Grammar (Lockwood) | CC BY-NC-ND 3.0 — NC-ND blocks ML training |
+| Ojibwe People's Dictionary | CC BY-NC-SA 3.0 - NC clause blocks ML training |
+| Cree Language of the Plains Textbook | CC BY-NC-ND 4.0 - NC-ND blocks ML training and dataset derivation |
+| Ojibwe Vocabulary and Grammar (Lockwood) | CC BY-NC-ND 3.0 - NC-ND blocks ML training |
 
 ---
 
