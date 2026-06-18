@@ -2,7 +2,7 @@
 
 **Institution:** Thompson Rivers University  
 **Program:** Undergraduate Research Experience Award Program (UREAP)  
-**Status:** In Progress — Expected completion August 30, 2026
+**Status:** In Progress - Expected completion August 30, 2026
 
 ---
 
